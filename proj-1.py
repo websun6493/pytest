@@ -1,3 +1,4 @@
+import ty01
 x = input('what do you want: ')
 y = int(input('first number: '))
 z = int(input('second number: '))
