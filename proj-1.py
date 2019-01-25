@@ -1,6 +1,6 @@
 import ty01
 x = input('what do you want: ')
-y = int(input('first number: '))
+y = int(input('fuck!!: '))
 z = int(input('second number: '))
 if x==('+'):
 	print(y+z)
